@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Melanomore</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_diagnose">DiagnoseActivity</string>
+    <string name="notes">Notes</string>
+    <string name="search">Search</string>
+</resources>
