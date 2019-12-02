@@ -13,6 +13,6 @@ A mobile application that anyone can download and use that allows them to use th
 
 
 ### About Us
-Aruna Daita is a former chemical engineer who found an interest in the application of technology in different areas to improve quality of life. Email her at arunadaita@yahoo.com
+Aruna Daita (Rangavajhula) is a former chemical engineer who found an interest in the application of technology in different areas to improve quality of life. Email her at arunadaita@yahoo.com
 
 Vijay Daita is an Android App Developer who has a passion for applying research to the real world to improve quality of life. Email him at hello@daita.com
