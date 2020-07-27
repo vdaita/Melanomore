@@ -10,9 +10,3 @@ According to the Google post “Using Deep Learning to Inform Differential Diagn
 
 ## Solution
 A mobile application that anyone can download and use that allows them to use the latest research to detect the skin disease(s) that they have.
-
-
-### About Us
-Aruna Daita (Rangavajhula) is a former chemical engineer who found an interest in the application of technology in different areas to improve quality of life. Email her at arunadaita@yahoo.com
-
-Vijay Daita is an Android App Developer who has a passion for applying research to the real world to improve quality of life. Email him at hello@daita.com
